@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.head1 {
+  font-family: "Big Shoulders Stencil Display", cursive !important;
+  font-size: 72px;
+  color: rgb(101, 167, 156);
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
